@@ -2,7 +2,7 @@
 # Dự Án Cuối Kỳ Môn Học Sâu (Deep Learning)
 
 **Trường:** Đại học Tôn Đức Thắng (TDTU)
-**Sinh viên thực hiện:** Nguyễn Thái Khánh Nam - 523H0159
+**Sinh viên thực hiện:** Trương Quốc Minh - 52300127, Lê Tiến Bảo - 52300093, Nguyễn Anh Kiệt - 52300123
 
 Dự án này bao gồm hai bài toán chính ứng dụng Học Sâu:
 1. **Visual Question Answering (VQA)** trên miền dữ liệu Món ăn Việt Nam.
