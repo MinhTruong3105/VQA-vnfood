@@ -60,12 +60,6 @@ Giao diện được xây dựng bằng Gradio tích hợp cả 3 mô hình AI.
 3. Khởi chạy ứng dụng:
 `python app.py`
 
-## 📺 Demo Sản Phẩm
-Dưới đây là video quay lại quá trình hoạt động của hệ thống VQA và Text Summarization trên giao diện Gradio:
-
-[![Video Demo]](https://drive.google.com/file/d/14hSUydr7-NeVO300cDCrQKdTLEH65ysX/view?usp=sharing)
-
-*(Hoặc bấm vào link trực tiếp: [Link Google Drive](https://drive.google.com/file/d/14hSUydr7-NeVO300cDCrQKdTLEH65ysX/view?usp=sharing))*
 
 ## 🔗 Liên kết tài nguyên (Dataset & Checkpoints)
 *Dữ liệu và trọng số mô hình được lưu trữ công khai trên Kaggle:*
