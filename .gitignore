@@ -1,0 +1,21 @@
+# Bỏ qua các file trọng số mô hình
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+
+# Bỏ qua thư mục checkpoint của HuggingFace/PEFT
+checkpoints_B2/
+bartpho_summarization/
+
+# Bỏ qua file data lớn
+*.csv
+*.json
+dataset/
+
+# Bỏ qua các file môi trường ảo và bộ nhớ đệm của Python
+__pycache__/
+*.pyc
+.env
+venv/
