@@ -66,3 +66,9 @@ Dưới đây là video quay lại quá trình hoạt động của hệ thống
 [![Video Demo]](https://drive.google.com/file/d/14hSUydr7-NeVO300cDCrQKdTLEH65ysX/view?usp=sharing)
 
 *(Hoặc bấm vào link trực tiếp: [Link Google Drive](https://drive.google.com/file/d/14hSUydr7-NeVO300cDCrQKdTLEH65ysX/view?usp=sharing))*
+
+## 🔗 Liên kết tài nguyên (Dataset & Checkpoints)
+*Dữ liệu và trọng số mô hình được lưu trữ công khai trên Kaggle:*
+- **Dataset VQA (Món ăn Việt):** [Kaggle - VQA-VNF Dataset](https://www.kaggle.com/datasets/truongminh3105/vqa-vnf-dataset)
+- **Model Checkpoints (Weights):** [Kaggle - VQA Models & Weights](https://www.kaggle.com/datasets/truongminh3105/models)
+- **Video Demo:** [Link Google Drive](https://drive.google.com/file/d/14hSUydr7-NeVO300cDCrQKdTLEH65ysX/view?usp=sharing)
