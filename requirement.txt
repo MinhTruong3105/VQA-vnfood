@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+peft
+accelerate
+bitsandbytes
+gradio
+deep-translator
+bert-score
+rouge-score
+nltk
+pandas
+Pillow
+tqdm
